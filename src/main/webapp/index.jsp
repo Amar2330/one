@@ -204,7 +204,7 @@
             <p>Created a robust CI/CD pipeline integrating SonarQube, Trivy, and Docker for secure and quality-focused deployments.</p>
         </div>
         <div class="project">
-            <h3>AWS Infrastructure Automation</h3>
+            
             <p>Automated EC2 instance provisioning and application deployment using Terraform and CFT</p>
         </div>
     </section>
