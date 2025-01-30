@@ -194,7 +194,7 @@
     </section>
 
     <section id="projects" class="projects">
-        <h2>Projects</h2>
+        
         <div class="project">
             <h3>Bank Application Deployment</h3>
             <p>Deployed a three-tier banking app using Kubernetes, Docker, and MySQL, ensuring high availability and security.</p>
